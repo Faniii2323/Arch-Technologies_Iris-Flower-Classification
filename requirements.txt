@@ -1,0 +1,9 @@
+Technologies Used
+
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
+notebook
+random forest classifier
